@@ -1,0 +1,11 @@
+C:\Users\Данил\Desktop\laba2\bin\Debug\curse.exe.config
+C:\Users\Данил\Desktop\laba2\bin\Debug\curse.exe
+C:\Users\Данил\Desktop\laba2\bin\Debug\curse.pdb
+C:\Users\Данил\Desktop\laba2\obj\Debug\laba2.csproj.AssemblyReference.cache
+C:\Users\Данил\Desktop\laba2\obj\Debug\laba2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Данил\Desktop\laba2\obj\Debug\laba4.Form1.resources
+C:\Users\Данил\Desktop\laba2\obj\Debug\curse.Properties.Resources.resources
+C:\Users\Данил\Desktop\laba2\obj\Debug\laba2.csproj.GenerateResource.cache
+C:\Users\Данил\Desktop\laba2\obj\Debug\laba2.csproj.CoreCompileInputs.cache
+C:\Users\Данил\Desktop\laba2\obj\Debug\curse.exe
+C:\Users\Данил\Desktop\laba2\obj\Debug\curse.pdb
